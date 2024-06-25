@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PerScholarSarah
-- 👀 I’m interested in AI, robotics, natural language processing, and computer vision
+- 👀 I’m interested in AI, Robotics, NLP, CV, UX, and Game Development
 - 🌱 I’m currently learning the _MERN Stack_
 - 📫 How to reach me: email me at hiresarahjwong@gmail.com
 - 😄 Pronouns: she/her/herself
