@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PerScholarSarah
 - 👀 I’m interested in AI, robotics, natural language processing, and computer vision
-- 🌱 I’m currently learning the MERN Stack
-- 📫 How to reach me hiresarahjwong@gmail.com
-- 😄 Pronouns: she/her
+- 🌱 I’m currently learning the _MERN Stack_
+- 📫 How to reach me: email me at hiresarahjwong@gmail.com
+- 😄 Pronouns: she/her/herself
 - ⚡ Fun fact: I've been coding since I was 10, doing LEGO robotics
 
 <!---
